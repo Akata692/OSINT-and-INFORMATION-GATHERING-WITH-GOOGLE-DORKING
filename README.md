@@ -224,3 +224,15 @@ Only investigate systems and information that you own or have explicit permissio
 
 **Reference:** [Google Hacking Database (GHDB) – Exploit Database](https://www.exploit-db.com/google-hacking-database)
 
+---
+
+
+
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
+
+---
